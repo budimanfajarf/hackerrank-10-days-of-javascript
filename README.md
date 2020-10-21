@@ -1,1 +1,1 @@
-## HackerRank - 10 Days Of JavaScript
+# HackerRank - 10 Days Of JavaScript
